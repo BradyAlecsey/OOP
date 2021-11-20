@@ -1,0 +1,26 @@
+E:\Программы\ООП\Task\Task\bin\Debug\netcoreapp3.1\Task.exe
+E:\Программы\ООП\Task\Task\bin\Debug\netcoreapp3.1\Task.deps.json
+E:\Программы\ООП\Task\Task\bin\Debug\netcoreapp3.1\Task.runtimeconfig.json
+E:\Программы\ООП\Task\Task\bin\Debug\netcoreapp3.1\Task.runtimeconfig.dev.json
+E:\Программы\ООП\Task\Task\bin\Debug\netcoreapp3.1\Task.dll
+E:\Программы\ООП\Task\Task\bin\Debug\netcoreapp3.1\Task.pdb
+E:\Программы\ООП\Task\Task\obj\Debug\netcoreapp3.1\Task.csprojAssemblyReference.cache
+E:\Программы\ООП\Task\Task\obj\Debug\netcoreapp3.1\Task.AssemblyInfoInputs.cache
+E:\Программы\ООП\Task\Task\obj\Debug\netcoreapp3.1\Task.AssemblyInfo.cs
+E:\Программы\ООП\Task\Task\obj\Debug\netcoreapp3.1\Task.csproj.CoreCompileInputs.cache
+E:\Программы\ООП\Task\Task\obj\Debug\netcoreapp3.1\Task.dll
+E:\Программы\ООП\Task\Task\obj\Debug\netcoreapp3.1\Task.pdb
+E:\Программы\ООП\Task\Task\obj\Debug\netcoreapp3.1\Task.genruntimeconfig.cache
+C:\Users\holya\AppData\Local\GitHubDesktop\app-2.9.4\OOP\Task 1\Task\bin\Debug\netcoreapp3.1\Task.exe
+C:\Users\holya\AppData\Local\GitHubDesktop\app-2.9.4\OOP\Task 1\Task\bin\Debug\netcoreapp3.1\Task.deps.json
+C:\Users\holya\AppData\Local\GitHubDesktop\app-2.9.4\OOP\Task 1\Task\bin\Debug\netcoreapp3.1\Task.runtimeconfig.json
+C:\Users\holya\AppData\Local\GitHubDesktop\app-2.9.4\OOP\Task 1\Task\bin\Debug\netcoreapp3.1\Task.runtimeconfig.dev.json
+C:\Users\holya\AppData\Local\GitHubDesktop\app-2.9.4\OOP\Task 1\Task\bin\Debug\netcoreapp3.1\Task.dll
+C:\Users\holya\AppData\Local\GitHubDesktop\app-2.9.4\OOP\Task 1\Task\bin\Debug\netcoreapp3.1\Task.pdb
+C:\Users\holya\AppData\Local\GitHubDesktop\app-2.9.4\OOP\Task 1\Task\obj\Debug\netcoreapp3.1\Task.csprojAssemblyReference.cache
+C:\Users\holya\AppData\Local\GitHubDesktop\app-2.9.4\OOP\Task 1\Task\obj\Debug\netcoreapp3.1\Task.AssemblyInfoInputs.cache
+C:\Users\holya\AppData\Local\GitHubDesktop\app-2.9.4\OOP\Task 1\Task\obj\Debug\netcoreapp3.1\Task.AssemblyInfo.cs
+C:\Users\holya\AppData\Local\GitHubDesktop\app-2.9.4\OOP\Task 1\Task\obj\Debug\netcoreapp3.1\Task.csproj.CoreCompileInputs.cache
+C:\Users\holya\AppData\Local\GitHubDesktop\app-2.9.4\OOP\Task 1\Task\obj\Debug\netcoreapp3.1\Task.dll
+C:\Users\holya\AppData\Local\GitHubDesktop\app-2.9.4\OOP\Task 1\Task\obj\Debug\netcoreapp3.1\Task.pdb
+C:\Users\holya\AppData\Local\GitHubDesktop\app-2.9.4\OOP\Task 1\Task\obj\Debug\netcoreapp3.1\Task.genruntimeconfig.cache
